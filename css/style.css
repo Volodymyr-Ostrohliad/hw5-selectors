@@ -1,0 +1,86 @@
+hr {
+  border-bottom: solid;
+}
+
+strong,
+li
+ {
+  font-size: 18px;
+  color:darkorchid
+}
+
+span {
+  font-size: 18px;
+  color: coral;
+}
+
+* {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#dt-universal-selector
+{
+color:aqua;
+}
+
+#dd-universal-selector{
+  color:aqua;
+}
+
+#second-selector{
+  color: red;
+}
+
+#second-selector-two {
+  color: red;
+}
+
+.third-selector {
+  color: aquamarine;
+}
+
+.third-selector-two {
+  color: aquamarine;
+}
+
+footer span {
+  color: brown;
+}
+
+header h1 {
+  color: yellow;
+  text-align: center;
+}
+
+.fourth {
+  color: tomato;
+}
+
+.group,
+.sgroup {
+  color: teal;
+}
+
+.id {
+  color: blue;
+}
+
+.sel2 {
+  color: springgreen;
+}
+
+.sel3 {
+  color: chocolate;
+}
+
+.sel4 {
+  color: slategray;
+}
+
+.sel5 {
+  color: cornflowerblue;
+}
+
+.sel6 {
+  color: deeppink;
+}
